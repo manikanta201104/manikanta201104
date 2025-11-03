@@ -1,27 +1,65 @@
-### 👋 Hi there, I'm Manikanta!
+# 👋 Hi, I'm **Manikanta Mettu**!
 
-I'm a passionate and curious developer who loves building full-stack web applications and exploring new technologies. I enjoy solving real-world problems through code and constantly strive to improve my skills and learn something new every day.
+> **Full-Stack Developer | Web & AI Enthusiast | Unity Game Dev**
 
----
-
-- 👀 I’m interested in **Web Development, Machine Learning, Game Development (Unity), and Blockchain Technologies**
-- 🌱 I’m currently learning **Advanced MERN Stack, Blender for Game Assets, and Data Analysis with Python & R**
-- 💞️ I’m looking to collaborate on **open-source projects, hackathons, and meaningful tech solutions**
-- 📫 How to reach me: **[manikanta201104@gmail.com](mailto:manikanta201104@gmail.com)**  
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: *I once turned a simple idea into a full-fledged multiplayer game using Unity and had a blast debugging it!*
+Passionate about building **impactful web applications**, **AI-powered tools**, and **immersive digital experiences**. I turn ideas into functional, scalable products — from responsive UIs to real-time backend systems.
 
 ---
 
-📌 **Tech Stack:**
-- **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB, MySQL, PHP
-- **Tools & Platforms:** GitHub, VS Code, Postman, Unity, Blender
-- **Languages:** C++, JavaScript, Python, Java
+## 🔥 **What I Do**
+- Build **full-stack web apps** with React, Node.js, and modern frameworks  
+- Develop **AI-driven features** (mood detection, screen-time analytics)  
+- Create **Chrome extensions** and **Unity-based VR/AR experiences**  
+- Solve **200+ DSA problems** on LeetCode (Rating: **1692**)  
 
-Feel free to check out my projects and drop a star ⭐ if you like them!
+---
 
-<!---
-manikanta201104/manikanta201104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 **Tech Stack**
+
+| Category         | Technologies |
+|------------------|--------------|
+| **Frontend**     | React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript, TypeScript |
+| **Backend**      | Node.js, Express.js, REST APIs, JWT, Axios |
+| **Databases**    | MongoDB, MySQL |
+| **AI/ML**        | TensorFlow.js, face-api.js, Python |
+| **DevOps & Tools**| Git, GitHub, Postman, VS Code, Docker, Chrome APIs |
+| **Game Dev**     | Unity, C#, Blender, XR Toolkit |
+| **Languages**    | C++, Python, JavaScript, Java, C# |
+
+---
+
+## 🚀 **Featured Projects**
+
+| Project | Description | Tech | Links |
+|--------|-------------|------|-------|
+| **ChillBoard** | AI wellness dashboard with mood detection & Spotify integration | React, Node.js, TensorFlow.js, MongoDB | [Live](https://www.chillboard.in) \| [Frontend](https://github.com/manikanta-mettu/chillboard-frontend) \| [Backend](https://github.com/manikanta-mettu/chillboard-backend) |
+| **ChillBoard Chrome Extension** | Tracks screen time & tab usage across sessions | JS, Chrome APIs | [Chrome Store](https://chromewebstore.google.com/detail/chillboard-extension/feaegaofmcfblfmegpkliepealjhongd) \| [Repo](https://github.com/manikanta-mettu/chillboard-extension) |
+
+> *More projects in the [Projects tab](#) or on my [portfolio](https://manikanta.dev)*
+
+---
+
+## 🌱 **Currently Exploring**
+- Advanced **MERN Stack** with Next.js App Router  
+- **Blender 3D modeling** for game assets  
+- **Data visualization** with Python & R  
+- **Web3** and decentralized apps (dApps)
+
+---
+
+## 💬 **Let's Connect!**
+- 📧 **Email**: [mettumanikanta098@gmail.com](mailto:mettumanikanta098@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/manikanta-mettu](https://linkedin.com/in/manikanta-mettu)  
+- 🖥 **Portfolio**: [manikanta.dev](https://manikanta.dev)  
+- 🐙 **GitHub**: [@manikanta-mettu](https://github.com/manikanta-mettu)  
+
+---
+
+## ⚡ **Fun Fact**
+> *I built a **multiplayer game in Unity** just to test a networking idea — and accidentally stayed up 48 hours debugging it. Worth it.*
+
+---
+
+⭐ **Like what you see? Star my repos or drop a follow — I post clean code, dev tips, and project breakdowns!**
+
+---
