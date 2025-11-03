@@ -14,6 +14,16 @@ Passionate about building **impactful web applications**, **AI-powered tools**, 
 
 ---
 
+## 📊 **GitHub Stats**
+
+![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta-mettu&show_icons=true&theme=dracula&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta-mettu&layout=compact&theme=dracula&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manikanta-mettu&theme=dracula&hide_border=true)
+
+---
+
 ## 🛠 **Tech Stack**
 
 | Category         | Technologies |
