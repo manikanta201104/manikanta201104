@@ -35,7 +35,7 @@ Passionate about building **impactful web applications**, **AI-powered tools**, 
 | **ChillBoard** | AI wellness dashboard with mood detection & Spotify integration | React, Node.js, TensorFlow.js, MongoDB | [Live](https://www.chillboard.in) \| [Frontend](https://github.com/manikanta-mettu/chillboard-frontend) \| [Backend](https://github.com/manikanta-mettu/chillboard-backend) |
 | **ChillBoard Chrome Extension** | Tracks screen time & tab usage across sessions | JS, Chrome APIs | [Chrome Store](https://chromewebstore.google.com/detail/chillboard-extension/feaegaofmcfblfmegpkliepealjhongd) \| [Repo](https://github.com/manikanta-mettu/chillboard-extension) |
 
-> *More projects in the [Projects tab](https://manikanta-portfolio-pi.vercel.app/project) or on my [portfolio]([https://manikanta.dev](https://manikanta-portfolio-pi.vercel.app/))*
+> *More projects in the [Projects tab](https://manikanta-portfolio-pi.vercel.app/project) or on my [portfolio](https://manikanta-portfolio-pi.vercel.app/)*
 
 ---
 
