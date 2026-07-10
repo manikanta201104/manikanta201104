@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════ ANIMATED TYPING HEADER ═══════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manikanta+Mettu+%F0%9F%91%8B;Frontend-Focused+Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+AWS;Chrome+Extension+%26+AI+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Manikanta+Mettu+%F0%9F%91%8B;Frontend-Focused+Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+AWS;Chrome+Extensions+%26+AI-Powered+Tools" alt="Typing SVG" />
 
 <!-- ═══════════════════ PROFILE VIEWS + FOLLOWERS ═══════════════════ -->
 <p>
@@ -16,7 +16,7 @@ Building **responsive UIs**, **Chrome Extensions**, and **serverless automation 
   <a href="https://manikanta-portfolio-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manikanta2024/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mettumanikanta098@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/wJw1yURFh6/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 </div>
@@ -63,13 +63,13 @@ Building **responsive UIs**, **Chrome Extensions**, and **serverless automation 
 <div align="center">
 
 <!-- Stats card: shows total stars, commits, PRs, issues, contributions -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=manikanta201104&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manikanta201104&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&v=2" />
 
 <!-- Streak card: current streak 🔥, MAX/longest streak, total contributions -->
 <img height="180" src="https://streak-stats.demolab.com/?user=manikanta201104&theme=tokyonight&hide_border=true&fire=DD6B20&ring=61DAFB" />
 
 <!-- Top languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta201104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta201104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&v=2" />
 
 </div>
 
@@ -83,7 +83,7 @@ Building **responsive UIs**, **Chrome Extensions**, and **serverless automation 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manikanta201104&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manikanta201104&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&v=2" />
 </div>
 
 ---
@@ -113,8 +113,8 @@ Building **responsive UIs**, **Chrome Extensions**, and **serverless automation 
 
 <div align="center">
 
-<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username -->
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+<!-- LeetCode stats — live from your profile -->
+<img src="https://leetcard.jacoblin.cool/wJw1yURFh6?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
 
